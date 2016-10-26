@@ -1,1 +1,3 @@
-One Project is compiled into one assembly
+One Solution can contain one or more projects.
+One Project is compiled into single .net assembly
+
